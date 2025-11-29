@@ -43,7 +43,7 @@ export default function Navbar() {
             </div>
 
             {/* Tooltip */}
-            <span className="absolute right-12 top-1/2 -translate-y-1/2 bg-gray-800 text-white text-sm px-3 py-1 rounded shadow-lg opacity-100 group-hover:opacity-100 whitespace-nowrap transition-opacity">
+            <span className="absolute right-12 top-1/2 -translate-y-1/2 bg-gray-800 text-white text-sm px-3 py-1 rounded shadow-lg opacity-0 group-hover:opacity-100 whitespace-nowrap transition-opacity hidden md:block">
               {item.name}
             </span>
           </button>
