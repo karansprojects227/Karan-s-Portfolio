@@ -38,10 +38,7 @@ export default function About() {
             <div className="absolute top-20 right-0 w-[45vw] h-[45vw] sm:w-[35vw] sm:h-[35vw] bg-cyan-400/20 blur-[120px] animate-pulse delay-500"></div>
             
             {/* Subtle holographic wave */}
-            <div className="absolute inset-0 bg-gradient-to-r
-              from-transparent via-white/5 to-transparent
-              animate-[wave_15s_linear_infinite] opacity-15 sm:opacity-20">
-            </div>
+            <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent animate-[wave_15s_linear_infinite] opacity-15 sm:opacity-20"></div>
             
             {/* Micro Stars */}
             {[...Array(30)].map((_, i) => (
