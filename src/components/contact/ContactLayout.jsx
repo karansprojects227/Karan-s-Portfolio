@@ -28,8 +28,7 @@ export default function About() {
         {/* contact main section */}
         <section
           id="contact"
-          className="min-h-screen w-full px-4 sm:px-6 py-12 sm:py-8 flex flex-col justify-center items-center relative
-                     bg-gradient-to-b from-[#020202] via-[#05060a] to-[#0a0a0a] overflow-hidden"
+          className="min-h-screen w-full px-4 sm:px-6 py-12 sm:py-8 flex flex-col justify-center items-center relative bg-gradient-to-b from-[#020202] via-[#05060a] to-[#0a0a0a] overflow-hidden"
         >
           {/* Dark Nebula BG Layers */}
           <div className="absolute inset-0 pointer-events-none">
