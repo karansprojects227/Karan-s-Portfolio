@@ -99,7 +99,7 @@ export default function About() {
               
               {/* Resume Link */}
               <a
-                href="/Karan_Kumar_Resume.pdf"
+                href="/Resume.pdf"
                 download
                 className="hover-playwrite inline-block w-fit text-gray-300 text-base sm:text-lg underline underline-offset-4 hover:text-white transition-all font-[Poppins] animate-fadeIn delay-600"
               >
