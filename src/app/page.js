@@ -136,7 +136,7 @@ export default function Home() {
                           group-hover:shadow-inner group-hover:shadow-cyan-300/50
                           transition-all duration-700">
             <img
-              src="/IMG20251210134918.heif"
+              src="/karan-portfolio.png"
               alt=""
               className="w-full h-full object-cover rounded-[38%_62%_48%_52%/55%_45%_60%_40%]
                          transition-all duration-[900ms] group-hover:scale-[1.1] group-hover:rotate-[1.5deg]"
